@@ -1,4 +1,4 @@
-# Relat-rio-
+# Relatorio-
   Monitoramento da qualidade do ar que fornece alertas usando IoT, o relatório descreve o projeto e a implementação de um sistema de monitoramento da qualidade do ar que fornece alertas usando o IoT. O principal objetivo do sistema é fornecer informações em tempo real sobre a qualidade do ar em uma área específica e alertar automaticamente quando os níveis de poluentes excedem os padrões especificados.
   
   Este sistema é essencial para proteger a saúde pública porque permite que as autoridades e os cidadãos tomem medidas imediatas quando ocorre poluição atmosférica, usando um sensor de qualidade do ar(Mq-2) capaz de detectar gases/vapores de GLP, Metano, Propano, Butano, Hidrogênico, Álcool e fumaça de cigarro e utilizando o sensor DHT 22 verificaremos a Umidade e a Temperatura são detectados, assim, monitoraremos continuamente os dados da qualidade do ar e compararemos esses dados com os limites estabelecidos pelas norma ambiental. 
